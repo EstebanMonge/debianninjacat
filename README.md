@@ -4,7 +4,7 @@
 
 I read this "Microsoft is cool again" from this article [http://www.theverge.com/2015/3/2/8134603/microsoft-is-cool-again].
 
-When I finished vomiting... I think: "Nothing can be more cool than Debian... except Chuck Norris".
+When I finished vomiting... I thought: "Nothing can be more cool than Debian... except Chuck Norris".
 
 It's time of Debian Ninja Cat.
 
