@@ -12,6 +12,10 @@ I don't know how draw anything... If Microsoft stolen this http://sharpwriter.de
 
 If you think that you can get a better result... please help me!
 
+## License:
+
+ - https://creativecommons.org/licenses/by/2.5/deed.en
+
 ## Credits:
 
 - https://upload.wikimedia.org/wikipedia/commons/d/db/Visible_Blue_Unicorn_Dexter.svg
