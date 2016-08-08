@@ -8,7 +8,7 @@ When I finished vomiting... I thought: "Nothing can be more cool than [Debian](h
 
 It's time of Debian Ninja Cat.
 
-I don't know how draw anything... If Microsoft stolen this http://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378) I'll use (steal! all the necessary "to build" our cat!
+I don't know how draw anything... If Microsoft stolen this http://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378 I'll use (steal!) all the necessary stuff "to build" our cat!
 
 If you think that you can get a better result... please help me!
 
