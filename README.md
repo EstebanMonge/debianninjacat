@@ -6,7 +6,7 @@ I read this "Microsoft is cool again" from this article http://www.theverge.com/
 
 When I finished vomiting... I thought: "Nothing can be more cool than [Debian](https://www.debian.org/)... except Chuck Norris".
 
-It's time of Debian Ninja Cat.
+[Debian rocks!](https://lists.debian.org/debian-user-spanish/2016/08/msg00086.html). It's time of Debian Ninja Cat.
 
 I don't know how draw anything... If Microsoft stolen this http://sharpwriter.deviantart.com/art/Welcome-to-the-Internet-Please-Follow-me-322248378 I'll use (steal!) all the necessary stuff "to build" our cat!
 
